@@ -36,33 +36,28 @@ Example entry:
 
 ## How to Use
 
-1. Clone this repository to your local machine:
+To access data from My Static API, you have two options:
 
-```bash
-git clone https://github.com/your-username/my-static-api.git
-```
+1. **Clone Repository:**
+   - Use the `git clone` command to copy this repository to your local machine.
+   - Access the data files in your project as usual.
 
-2. Access the data files in your project:
+    ```bash
+    git clone https://github.com/your-username/my-static-api.git
+    ```
 
-```javascript
-const sneakersData = require('./my-static-api/sneakers.json');
-const basketballShoesData = require('./my-static-api/basketball_shoes.json');
-```
+2. **Raw GitHub:**
+   - You can access data files directly through the "Raw" link on the GitHub repository.
+   - Copy the "Raw" link of the file you need and use it in your applications or scripts.
 
-3. Use the data in your application as needed. For example:
+   Example "Raw" links:
+   - [Sneakers Data (Raw)](https://raw.githubusercontent.com/RH203/my-static-api/main/sneakers_shoes.json)
+   - [Basketball Shoes Data (Raw)](https://raw.githubusercontent.com/RH203/my-static-api/main/basketball_shoes.json)
 
-```javascript
-// Access the first sneaker name
-console.log(sneakersData[0].name);
+Please choose the option that suits your needs. If you need further assistance, feel free to ask!
 
-// Access the available sizes of the third basketball shoe
-console.log(basketballShoesData[2].sizes);
 
-// Access the path to the image of the fifth sneaker
-console.log(basketballShoesData[4].image);
-```
+**Feel free to explore and utilize the data provided in this repository for your projects!**
 
-Feel free to explore and utilize the data provided in this repository for your projects!
-```
 
-Make sure to replace "your-username" with your GitHub username. Don't forget to include additional information or adjustments as needed for your project. Hope it is useful!
+**Make sure to replace "your-username" with your GitHub username. Don't forget to include additional information or adjustments as needed for your project. Hope it is useful!**
