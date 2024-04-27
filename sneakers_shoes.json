@@ -1,0 +1,122 @@
+[
+  {
+    "name": "AirFlex Runners",
+    "sizes": ["7", "8", "9", "10", "11"],
+    "colors": ["Black", "White", "Red"],
+    "image": "assets/sneakers_shoes/airflex_runners.jpg"
+  },
+  {
+    "name": "UrbanTech X",
+    "sizes": ["6", "7", "8", "9", "10"],
+    "colors": ["Blue", "Gray", "Green"],
+    "image": "assets/sneakers_shoes/urban_tech_x.jpg"
+  },
+  {
+    "name": "StreetGlide Lite",
+    "sizes": ["8", "9", "10", "11", "12"],
+    "colors": ["Black/Orange", "White/Blue", "Gray/Red"],
+    "image": "assets/sneakers_shoes/streetglide_lite.jpg"
+  },
+  {
+    "name": "NeoRush Classic",
+    "sizes": ["7", "8", "9", "10", "11"],
+    "colors": ["Black", "White", "Green"],
+    "image": "assets/sneakers_shoes/neorush_classic.jpg"
+  },
+  {
+    "name": "SwiftStep Elite",
+    "sizes": ["6", "7", "8", "9", "10"],
+    "colors": ["Red/Black", "Blue/Gray", "White/Orange"],
+    "image": "assets/sneakers_shoes/swiftstep_elite.jpg"
+  },
+  {
+    "name": "UrbanFlash Pro",
+    "sizes": ["8", "9", "10", "11", "12"],
+    "colors": ["Gray/Black", "Green/White", "Blue/Red"],
+    "image": "assets/sneakers_shoes/urbanflash_pro.jpg"
+  },
+  {
+    "name": "FlexFit Max",
+    "sizes": ["7", "8", "9", "10", "11"],
+    "colors": ["Black", "White", "Yellow"],
+    "image": "assets/sneakers_shoes/flexfit_max.jpg"
+  },
+  {
+    "name": "NeoSprint Ultra",
+    "sizes": ["6", "7", "8", "9", "10"],
+    "colors": ["Blue/Black", "Green/Gray", "White/Red"],
+    "image": "assets/sneakers_shoes/neosprint_ultra.jpg"
+  },
+  {
+    "name": "RapidRun X",
+    "sizes": ["8", "9", "10", "11", "12"],
+    "colors": ["Black/Blue", "White/Orange", "Gray/Green"],
+    "image": "assets/sneakers_shoes/rapidrun_x.jpg"
+  },
+  {
+    "name": "SpeedStride Prime",
+    "sizes": ["7", "8", "9", "10", "11"],
+    "colors": ["Black", "Gray", "Yellow"],
+    "image": "assets/sneakers_shoes/speedstride_prime.jpg"
+  },
+  {
+    "name": "UrbanFlex Lite",
+    "sizes": ["6", "7", "8", "9", "10"],
+    "colors": ["Blue/White", "Green/Black", "Red/Gray"],
+    "image": "assets/sneakers_shoes/urbanflex_lite.jpg"
+  },
+  {
+    "name": "AirGlide Pro",
+    "sizes": ["8", "9", "10", "11", "12"],
+    "colors": ["Black/Red", "White/Blue", "Gray/Green"],
+    "image": "assets/sneakers_shoes/airglide_pro.jpg"
+  },
+  {
+    "name": "TechSprint Elite",
+    "sizes": ["7", "8", "9", "10", "11"],
+    "colors": ["Black", "Red", "White"],
+    "image": "assets/sneakers_shoes/techsprint_elite.jpg"
+  },
+  {
+    "name": "SpeedFlex Lite",
+    "sizes": ["6", "7", "8", "9", "10"],
+    "colors": ["Gray/Black", "Blue/White", "Green/Red"],
+    "image": "assets/sneakers_shoes/speedflex_lite.jpg"
+  },
+  {
+    "name": "NeoRunners Pro",
+    "sizes": ["8", "9", "10", "11", "12"],
+    "colors": ["Black/Gray", "White/Green", "Blue/Red"],
+    "image": "assets/sneakers_shoes/neorunners_pro.jpg"
+  },
+  {
+    "name": "UrbanStride Max",
+    "sizes": ["7", "8", "9", "10", "11"],
+    "colors": ["Black", "Blue", "Yellow"],
+    "image": "assets/sneakers_shoes/urbanstride_max.jpg"
+  },
+  {
+    "name": "FlexTech Prime",
+    "sizes": ["6", "7", "8", "9", "10"],
+    "colors": ["Red/Black", "Gray/White", "Blue/Green"],
+    "image": "assets/sneakers_shoes/flextech_prime.jpg"
+  },
+  {
+    "name": "RapidStride X",
+    "sizes": ["8", "9", "10", "11", "12"],
+    "colors": ["Black/White", "Gray/Red", "Blue/Yellow"],
+    "image": "assets/sneakers_shoes/rapidstride_x.jpg"
+  },
+  {
+    "name": "SwiftFlex Lite",
+    "sizes": ["7", "8", "9", "10", "11"],
+    "colors": ["Black", "Green", "Orange"],
+    "image": "assets/sneakers_shoes/swiftflex_lite.jpg"
+  },
+  {
+    "name": "AirRush Elite",
+    "sizes": ["6", "7", "8", "9", "10"],
+    "colors": ["Blue/Black", "White/Gray", "Red/Green"],
+    "image": "assets/sneakers_shoes/airrush_elite.jpg"
+  }
+]
