@@ -8,22 +8,6 @@
     "image": "assets/basketball_shoes/air_dunk_pro.jpeg"
   },
   {
-    "name": "JumpMax Elite",
-    "brand": "Adidas",
-    "price": 89.99,
-    "colors": ["Black", "Red", "Blue"],
-    "sizes": ["7", "8", "9", "10", "11"],
-    "image": "assets/basketball_shoes/jumpmax_elite.jpeg"
-  },
-  {
-    "name": "HyperFlight X",
-    "brand": "Under Armour",
-    "price": 109.99,
-    "colors": ["Blue/Black", "White/Gray", "Red/Green"],
-    "sizes": ["6", "7", "8", "9", "10"],
-    "image": "assets/basketball_shoes/hyperflight_x.jpeg"
-  },
-  {
     "name": "SlamJam Prime",
     "brand": "Nike",
     "price": 79.99,
