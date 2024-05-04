@@ -1,11 +1,11 @@
 [
   {
-    "name": "Air Dunk Pro",
+    "name": "Nike SB Dunk Low Pro",
     "brand": "Nike",
     "price": 99.99,
     "colors": ["Black/Red", "White/Blue", "Gray/Green"],
     "sizes": ["8", "9", "10", "11", "12"],
-    "image": "assets/basketball_shoes/air_dunk_pro.jpg"
+    "image": "assets/basketball_shoes/air_dunk_pro.jpeg"
   },
   {
     "name": "JumpMax Elite",
@@ -13,7 +13,7 @@
     "price": 89.99,
     "colors": ["Black", "Red", "Blue"],
     "sizes": ["7", "8", "9", "10", "11"],
-    "image": "assets/basketball_shoes/jumpmax_elite.jpg"
+    "image": "assets/basketball_shoes/jumpmax_elite.jpeg"
   },
   {
     "name": "HyperFlight X",
@@ -21,7 +21,7 @@
     "price": 109.99,
     "colors": ["Blue/Black", "White/Gray", "Red/Green"],
     "sizes": ["6", "7", "8", "9", "10"],
-    "image": "assets/basketball_shoes/hyperflight_x.jpg"
+    "image": "assets/basketball_shoes/hyperflight_x.jpeg"
   },
   {
     "name": "SlamJam Prime",
@@ -29,7 +29,7 @@
     "price": 79.99,
     "colors": ["Black/White", "Gray/Red", "Blue/Yellow"],
     "sizes": ["8", "9", "10", "11", "12"],
-    "image": "assets/basketball_shoes/slamjam_prime.jpg"
+    "image": "assets/basketball_shoes/slamjam_prime.jpeg"
   },
   {
     "name": "BounceForce Max",
@@ -37,7 +37,7 @@
     "price": 94.99,
     "colors": ["Black", "White", "Yellow"],
     "sizes": ["7", "8", "9", "10", "11"],
-    "image": "assets/basketball_shoes/bounceforce_max.jpg"
+    "image": "assets/basketball_shoes/bounceforce_max.jpeg"
   },
   {
     "name": "Air Dunk Pro II",
@@ -45,7 +45,7 @@
     "price": 99.99,
     "colors": ["Black/Orange", "White/Blue", "Gray/Red"],
     "sizes": ["8", "9", "10", "11", "12"],
-    "image": "assets/basketball_shoes/air_dunk_pro_ii.jpg"
+    "image": "assets/basketball_shoes/air_dunk_pro_ii.jpeg"
   },
   {
     "name": "HyperLeap Elite",
@@ -53,7 +53,7 @@
     "price": 109.99,
     "colors": ["Black", "Red", "Blue"],
     "sizes": ["7", "8", "9", "10", "11"],
-    "image": "assets/basketball_shoes/hyperleap_elite.jpg"
+    "image": "assets/basketball_shoes/hyperleap_elite.jpeg"
   },
   {
     "name": "PowerJump X",
@@ -61,7 +61,7 @@
     "price": 94.99,
     "colors": ["Blue/Black", "White/Gray", "Red/Green"],
     "sizes": ["6", "7", "8", "9", "10"],
-    "image": "assets/basketball_shoes/powerjump_x.jpg"
+    "image": "assets/basketball_shoes/powerjump_x.jpeg"
   },
   {
     "name": "SkyFly Prime",
@@ -69,7 +69,7 @@
     "price": 79.99,
     "colors": ["Black/White", "Gray/Red", "Blue/Yellow"],
     "sizes": ["8", "9", "10", "11", "12"],
-    "image": "assets/basketball_shoes/skyfly_prime.jpg"
+    "image": "assets/basketball_shoes/skyfly_prime.jpeg"
   },
   {
     "name": "DunkForce Max",
@@ -77,7 +77,7 @@
     "price": 89.99,
     "colors": ["Black", "White", "Yellow"],
     "sizes": ["7", "8", "9", "10", "11"],
-    "image": "assets/basketball_shoes/dunkforce_max.jpg"
+    "image": "assets/basketball_shoes/dunkforce_max.jpeg"
   },
   {
     "name": "AirJump Pro",
@@ -85,7 +85,7 @@
     "price": 99.99,
     "colors": ["Black/Red", "White/Blue", "Gray/Green"],
     "sizes": ["8", "9", "10", "11", "12"],
-    "image": "assets/basketball_shoes/airjump_pro.jpg"
+    "image": "assets/basketball_shoes/airjump_pro.jpeg"
   },
   {
     "name": "FlightMax Elite",
@@ -93,7 +93,7 @@
     "price": 109.99,
     "colors": ["Black", "Red", "Blue"],
     "sizes": ["7", "8", "9", "10", "11"],
-    "image": "assets/basketball_shoes/flightmax_elite.jpg"
+    "image": "assets/basketball_shoes/flightmax_elite.jpeg"
   },
   {
     "name": "AirRise X",
@@ -101,7 +101,7 @@
     "price": 94.99,
     "colors": ["Blue/Black", "White/Gray", "Red/Green"],
     "sizes": ["6", "7", "8", "9", "10"],
-    "image": "assets/basketball_shoes/airrise_x.jpg"
+    "image": "assets/basketball_shoes/airrise_x.jpeg"
   },
   {
     "name": "SlamForce Prime",
@@ -109,7 +109,7 @@
     "price": 79.99,
     "colors": ["Black/White", "Gray/Red", "Blue/Yellow"],
     "sizes": ["8", "9", "10", "11", "12"],
-    "image": "assets/basketball_shoes/slamforce_prime.jpg"
+    "image": "assets/basketball_shoes/slamforce_prime.jpeg"
   },
   {
     "name": "DribbleMax Max",
@@ -117,7 +117,7 @@
     "price": 89.99,
     "colors": ["Black", "White", "Yellow"],
     "sizes": ["7", "8", "9", "10", "11"],
-    "image": "assets/basketball_shoes/dribblemax_max.jpg"
+    "image": "assets/basketball_shoes/dribblemax_max.jpeg"
   },
   {
     "name": "SkyJump Pro",
@@ -125,7 +125,7 @@
     "price": 99.99,
     "colors": ["Black/Red", "White/Blue", "Gray/Green"],
     "sizes": ["8", "9", "10", "11", "12"],
-    "image": "assets/basketball_shoes/skyjump_pro.jpg"
+    "image": "assets/basketball_shoes/skyjump_pro.jpeg"
   },
   {
     "name": "FlyMax Elite",
@@ -133,7 +133,7 @@
     "price": 109.99,
     "colors": ["Black", "Red", "Blue"],
     "sizes": ["7", "8", "9", "10", "11"],
-    "image": "assets/basketball_shoes/flymax_elite.jpg"
+    "image": "assets/basketball_shoes/flymax_elite.jpeg"
   },
   {
     "name": "HyperDunk X",
@@ -141,7 +141,7 @@
     "price": 99.99,
     "colors": ["Blue/Black", "White/Gray", "Red/Green"],
     "sizes": ["6", "7", "8", "9", "10"],
-    "image": "assets/basketball_shoes/hyperdunk_x.jpg"
+    "image": "assets/basketball_shoes/hyperdunk_x.jpeg"
   },
   {
     "name": "LeapForce Prime",
@@ -149,7 +149,7 @@
     "price": 109.99,
     "colors": ["Black/White", "Gray/Red", "Blue/Yellow"],
     "sizes": ["8", "9", "10", "11", "12"],
-    "image": "assets/basketball_shoes/leapforce_prime.jpg"
+    "image": "assets/basketball_shoes/leapforce_prime.jpeg"
   },
   {
     "name": "SkyFly Max",
@@ -157,7 +157,7 @@
     "price": 79.99,
     "colors": ["Black", "White", "Yellow"],
     "sizes": ["7", "8", "9", "10", "11"],
-    "image": "assets/basketball_shoes/skyfly_max.jpg"
+    "image": "assets/basketball_shoes/skyfly_max.jpeg"
   },
   {
     "name": "AirStrike Pro",
@@ -165,7 +165,7 @@
     "price": 89.99,
     "colors": ["Black/Red", "White/Blue", "Gray/Green"],
     "sizes": ["8", "9", "10", "11", "12"],
-    "image": "assets/basketball_shoes/airstrike_pro.jpg"
+    "image": "assets/basketball_shoes/airstrike_pro.jpeg"
   },
   {
     "name": "FlightJump Elite",
@@ -173,7 +173,7 @@
     "price": 109.99,
     "colors": ["Black", "Red", "Blue"],
     "sizes": ["7", "8", "9", "10", "11"],
-    "image": "assets/basketball_shoes/flightjump_elite.jpg"
+    "image": "assets/basketball_shoes/flightjump_elite.jpeg"
   },
   {
     "name": "SkyMax X",
@@ -181,7 +181,7 @@
     "price": 99.99,
     "colors": ["Blue/Black", "White/Gray", "Red/Green"],
     "sizes": ["6", "7", "8", "9", "10"],
-    "image": "assets/basketball_shoes/skymax_x.jpg"
+    "image": "assets/basketball_shoes/skymax_x.jpeg"
   },
   {
     "name": "PowerJam Prime",
@@ -189,7 +189,7 @@
     "price": 89.99,
     "colors": ["Black/White", "Gray/Red", "Blue/Yellow"],
     "sizes": ["8", "9", "10", "11", "12"],
-    "image": "assets/basketball_shoes/powerjam_prime.jpg"
+    "image": "assets/basketball_shoes/powerjam_prime.jpeg"
   },
   {
     "name": "DunkLeap Max",
@@ -197,6 +197,6 @@
     "price": 99.99,
     "colors": ["Black", "White", "Yellow"],
     "sizes": ["7", "8", "9", "10", "11"],
-    "image": "assets/basketball_shoes/dunkleap_max.jpg"
+    "image": "assets/basketball_shoes/dunkleap_max.jpeg"
   }
 ]
